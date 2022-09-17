@@ -1,3 +1,15 @@
 apiVersion: v1
-entries: {}
-generated: "2022-09-17T11:35:00.476430402-03:00"
+entries:
+  quarkus:
+  - apiVersion: v2
+    created: "2022-09-17T14:52:49.944314292Z"
+    description: A Helm chart to build and deploy Quarkus applications
+    digest: 442a6d8b9bd9cc9659165cadb4967a46da168590c4000c4df60c25fefe13e24f
+    keywords:
+    - runtimes
+    - quarkus
+    name: quarkus
+    urls:
+    - quarkus-0.0.4.tgz
+    version: 0.0.4
+generated: "2022-09-17T14:52:49.942714074Z"
